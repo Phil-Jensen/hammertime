@@ -1,4 +1,4 @@
-Turns out adding Perltidy to Visual Studio was faily painless.
+Turns out adding Perltidy to Visual Studio was fairly painless.
 
 Open the Tools | External Tools menu item
 
@@ -13,4 +13,5 @@ Leave others unchecked ("Treat output as Unicode", "Prompt for arguments")
 
 NB: $(ItemPath) is a variable pointing to the full path and filename for the current code (i.e. perl script).
     Ref: https://msdn.microsoft.com/en-us/library/76712d27.aspx#Arguments for external tools
+
 And done!
