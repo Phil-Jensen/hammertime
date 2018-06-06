@@ -1,3 +1,5 @@
+# Setup Visual Studio with PerlTidy
+
 Turns out adding Perltidy to Visual Studio was fairly painless.
 
 Open the Tools | External Tools menu item
