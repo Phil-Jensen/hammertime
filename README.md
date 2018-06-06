@@ -1,3 +1,1 @@
-changing the readme file again.
-
-14:13 - I might be into it finally!
+This is a small area on Github for me to store tips and tricks.

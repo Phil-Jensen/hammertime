@@ -1,3 +1,0 @@
-this is stored in the subdir
-
-Edited from Visual Studio
