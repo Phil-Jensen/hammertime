@@ -26,4 +26,8 @@ Install ActivePerl (https://www.activestate.com/activeperl)
     Internet, point your browser at http://www.perl.org/, the Perl Home Page.
 
 Install the Perl-Tidy plugin using the Perl Package Manager (ppm)
-    C:\>ppm
+    1. C:\>ppm
+    2. search for perl-tidy
+    3. Mark for install (+)
+    4. Run marked actions (Ctrl+Enter)
+
