@@ -9,7 +9,7 @@ Install following extensions (Tools | Extensions and Updates)
 Install ActivePerl (https://www.activestate.com/activeperl)
 - test Perl install by running a Command Prompt (cmd), and typing "perl -v"
 
-    C:\>perl -v
+    C:\\>perl -v
 
     This is perl 5, version 22, subversion 4 (v5.22.4) built for MSWin32-x64-multi-thread
     (with 1 registered patch, see perl -V for more detail)
@@ -28,7 +28,7 @@ Install ActivePerl (https://www.activestate.com/activeperl)
 
 
 Install the Perl-Tidy plugin using the Perl Package Manager (ppm)
-1. C:\>ppm
+1. C:\\>ppm
 2. search for perl-tidy
 3. Mark for install (+)
 4. Run marked actions (Ctrl+Enter)
